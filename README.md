@@ -1,2 +1,3 @@
-# Power_Bi-Dash_Boards
-Microsoft PowerBi Dash Boards
+# USA-Crime-Data-Analysis (Interactive Dashboard creation using MS PowerBi)
+## Project Objective
+Crime analysis is one of the most important activities that intelligence and law enforcement organizations perform all over the world. In this project, I will analyze data that has been collected about crimes that happened in different parts of the US in 1980 to 2014. The dataset consists of all related data about a crime such as where it happened, the important dates of the event, and how is it co-related to other events. Most law and enforcement agencies face the challenge of efficiently and accurately analyzing the growing volume of crime-related data. 
